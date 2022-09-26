@@ -30,6 +30,7 @@ This PROXIA will have the ability to mimic the appearance of subjects in a given
 EXAMPLE USAGE:
 
 e.g On an ASTRAL MINDCLOUD this PROXIA can be used to process INFORMATION sent to it from an INSTINCTIVE MIND PROXIA/MINDCLOUD (OBJECT DETECTION). So for example if the ROBOT or a SWARM/HIVE/PHALANX of ROBOTS encounters an intersting object they can use their eye cameras to IMAGES of the subject which can be used as INPUT for this IMAGINATION PROXIA. Novel views of the subject in different scenes/environments can be generated from text prompts. This can help ROBOTS better understand the subject of the IMAGE (as well as how humans view it).
+[SEE EXAMPLE IMAGES]
 
 
 e.g DREAMING: IMAGINATION PROXIAS CAN BE USED BY THE ROBOTS TO "DREAM". BY DREAMING I MEAN WHEN THE ROBOT IS IN HIBERNATION/SLEEP MODE IT CAN STILL PROCESS INFORMATION ABOUT THE OUTSIDE WORLD ON A LIMITED BASIS FROM PERIODIC TEXT PROMPTS (e.g from news, police reports). 
